@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    color: blue;
+    font-size: 3rem;
+    background-color: aquamarine;
+}
+
+.paaris {
+    background-color: greenyellow;
+    cokor: darkgrey;
+}
+.skandinaavia {
+    font-weight: bold;
+    color: darkblue;
+}
+
+#eriline {
+    background-color: lightsalmon;
+}
