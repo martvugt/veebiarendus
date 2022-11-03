@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.konteiner {
+    background: yellowgreen;
+    with: 90%;
+    max-with: 700px;
+    min-heigh: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.uudis-kuupäev {
+    font-size: 0.8rem;
+    color: green;
+    font-weight: bolder;
+}
+
+
+h2 {
+    margin-bottom: 0, 3, rem;
+}
