@@ -86,3 +86,21 @@ body {
     width: 77px;
     height: 66px;
 }
+
+.liblikas2 {
+    height: 32px;
+    width: 60px;
+    display: block;
+    margin-bottom: 40px;
+    margin-left: -62px;
+}
+
+.uudis-konteiner {
+    margin-bottom: 15px;
+}
+
+.autor {
+    font-size: 0.8rem;
+    color: green;
+    font-weight: bold;
+}

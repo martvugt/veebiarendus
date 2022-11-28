@@ -12,13 +12,15 @@ function valjasta(tekst) {
     valjundBlokk.innerHTML += '<div>' + tekst + '</div>'
 }
 
+function arvavarv() {
 
-let varv = prompt('Sisesta minu lemmikvärv')
+    let varv = document.getElementById('sisend').value
 
-let minuLemmikvarv = 'roheline'
+    let minuLemmikvarv = 'roheline'
 
-if (varv === minuLemmikvarv) {
-    valjasta('Tore! Arvasid ära minu lemmikvärvi!')
-} else {
-    valjasta('See ei ole minu lemmikvärv')
+    if (varv === minuLemmikvarv) {
+        valjasta('Tore! Arvasid ära minu lemmikvärvi!')
+    } else {
+        valjasta('See ei ole minu lemmikvärv')
+    }
 }
