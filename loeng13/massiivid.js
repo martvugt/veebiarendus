@@ -11,7 +11,7 @@ function addPhoto(pictureUrl) {
   const outputBlokk = document.getElementById('output')
   outputBlokk.innerHTML += `
   <div>
-  <img src="${pictureUrl}">
+  <img src="${pictureUrl}" width="300">
   </div>
   `
 }
